@@ -1,0 +1,75 @@
+{
+    "data": {
+        "menuName": "Order Food",
+        "isActive": true,
+        "nextStartTime": null,
+        "title": "Order Food",
+        "description": "this is description",
+        "isFoodMenu": true,
+        "menuCategories": [
+            {
+                "menuCategoryId": "EV offers",
+                "menuCategoryName": "Today's Offers",
+                "items": [
+                    {
+                        "id": 279,
+                        "name": "Chocolate Brownie (BQT)",
+                        "price": 125.0,
+                        "hotel": 34
+                    },
+                    {
+                        "id": 271,
+                        "name": "Paneer Pakoda (PNX)",
+                        "price": 320.0,
+                        "hotel": 34
+                    },
+                    {
+                        "id": 259,
+                        "name": "Pizza",
+                        "price": 100.0,
+                        "hotel": 34
+                    },
+                    {
+                        "id": 272,
+                        "name": "Paneer Pakoda (IRD)",
+                        "price": 320.0,
+                        "hotel": 34
+                    },
+                    {
+                        "id": 491,
+                        "name": "Pranthe",
+                        "price": 250.0,
+                        "hotel": 34
+                    },
+                    {
+                        "id": 309,
+                        "name": "Rasmalai (BQT)",
+                        "price": 125.0,
+                        "hotel": 34
+                    },
+                    {
+                        "id": 280,
+                        "name": "Gulab-jamun (BQT)",
+                        "price": 125.0,
+                        "hotel": 34
+                    }
+                ]
+            },
+            {
+                "menuCategoryId": 141,
+                "menuCategoryName": "Breakfast",
+                "items": [
+                    {
+                        "id": 316,
+                        "name": "Trotilla Roll (IRD)",
+                        "price": 400.0,
+                        "hotel": 34
+                    }
+                ]
+            }
+        ]
+    },
+    "message": "Menu Page",
+    "status": true,
+    "errorCode": null
+}
